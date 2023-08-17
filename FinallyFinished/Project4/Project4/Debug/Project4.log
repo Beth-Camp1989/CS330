@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(321,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(415,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(417,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(438,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(439,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(443,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(444,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(446,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(447,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(542,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(543,81): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(552,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(553,81): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(562,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(563,81): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(572,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(573,81): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(582,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Beth\source\repos\Project4\Project4\main.cpp(583,81): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project4.vcxproj -> C:\Users\Beth\source\repos\Project4\Debug\Project4.exe
